@@ -4,7 +4,6 @@ Witaj w moim repozytorium portfolio! Znajdziesz tutaj szczegółowy opis mojego 
 
 ## 🚀 O mnie
 
-<!-- Tutaj wpisz krótki opis o sobie, np. "Jestem programistą Fullstack z pasją do..." -->
 Jestem pasjonatem programowania, który stale poszerza swoją wiedzę. W tym repozytorium gromadzę projekty i fragmenty kodu, które pokazują moje podejście do rozwiązywania problemów.
 
 ## 🛠 Stack Technologiczny
@@ -44,6 +43,3 @@ Kod źródłowy przykładów znajduje się w katalogu `examples`.
 ## 📫 Kontakt
 
 - **WWW:** [www.volexit.pl](https://www.volexit.pl)
-- **Email:** <!-- twój@email.com -->
-- **LinkedIn:** <!-- Link do profilu -->
-- **GitHub:** <!-- Link do profilu -->
